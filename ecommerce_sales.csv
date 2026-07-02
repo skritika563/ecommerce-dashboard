@@ -1,0 +1,51 @@
+Order_ID,Customer_Name,Category,Product,Quantity,Price,Total_Amount,Payment_Method,City,Order_Status
+1001,Rahul,Grocery,Sugar,3,2997,8991,Net Banking,Delhi,Cancelled
+1002,Neha,Grocery,Sugar,1,4739,4739,Cash on Delivery,Delhi,Cancelled
+1003,Meera,Grocery,Coffee,1,3614,3614,Card,Delhi,Delivered
+1004,Vikram,Electronics,Smartwatch,1,1599,1599,Net Banking,Hyderabad,Delivered
+1005,Neha,Beauty,Face Wash,3,2016,6048,Net Banking,Mumbai,Delivered
+1006,Karan,Electronics,Headphones,1,4456,4456,UPI,Chennai,Cancelled
+1007,Ananya,Grocery,Tea,3,681,2043,Cash on Delivery,Hyderabad,Pending
+1008,Rahul,Beauty,Face Wash,3,2637,7911,Card,Hyderabad,Pending
+1009,Vikram,Books,Dictionary,1,2275,2275,Net Banking,Bangalore,Pending
+1010,Aarav,Books,Dictionary,1,3317,3317,UPI,Bangalore,Pending
+1011,Vikram,Grocery,Coffee,3,2440,7320,Net Banking,Mumbai,Pending
+1012,Vikram,Books,Novel,5,1316,6580,Cash on Delivery,Hyderabad,Cancelled
+1013,Ananya,Beauty,Shampoo,2,1877,3754,Card,Hyderabad,Pending
+1014,Aarav,Books,Novel,4,2540,10160,Card,Bangalore,Pending
+1015,Neha,Electronics,Speaker,5,645,3225,Net Banking,Chennai,Delivered
+1016,Rohan,Beauty,Cream,3,4779,14337,Net Banking,Bangalore,Delivered
+1017,Aarav,Clothing,Hoodie,5,2244,11220,UPI,Hyderabad,Pending
+1018,Sneha,Clothing,Shoes,2,2608,5216,Net Banking,Delhi,Delivered
+1019,Sneha,Grocery,Tea,1,630,630,UPI,Bangalore,Delivered
+1020,Aarav,Beauty,Shampoo,1,2515,2515,Cash on Delivery,Hyderabad,Pending
+1021,Meera,Clothing,Shoes,5,3480,17400,UPI,Chennai,Pending
+1022,Priya,Books,Notebook,3,4712,14136,Net Banking,Hyderabad,Delivered
+1023,Karan,Beauty,Perfume,5,3768,18840,Net Banking,Delhi,Pending
+1024,Rohan,Grocery,Oil,4,1614,6456,UPI,Bangalore,Cancelled
+1025,Karan,Electronics,Keyboard,5,1384,6920,UPI,Hyderabad,Cancelled
+1026,Ananya,Beauty,Lipstick,2,1664,3328,UPI,Mumbai,Cancelled
+1027,Rohan,Beauty,Perfume,4,3388,13552,Card,Chennai,Pending
+1028,Meera,Electronics,Mouse,3,2674,8022,Net Banking,Mumbai,Pending
+1029,Ananya,Electronics,Keyboard,4,3495,13980,Cash on Delivery,Delhi,Delivered
+1030,Ananya,Grocery,Coffee,2,2676,5352,Net Banking,Chennai,Cancelled
+1031,Neha,Books,Data Science,4,4425,17700,UPI,Bangalore,Delivered
+1032,Rohan,Clothing,T-Shirt,3,4269,12807,Card,Delhi,Cancelled
+1033,Rohan,Grocery,Sugar,5,4072,20360,Cash on Delivery,Delhi,Pending
+1034,Priya,Clothing,Hoodie,2,1654,3308,Cash on Delivery,Chennai,Cancelled
+1035,Rohan,Electronics,Smartwatch,4,4763,19052,Net Banking,Bangalore,Pending
+1036,Vikram,Electronics,Speaker,5,1265,6325,Net Banking,Mumbai,Pending
+1037,Vikram,Books,Notebook,4,1590,6360,Net Banking,Chennai,Delivered
+1038,Karan,Books,Dictionary,4,4556,18224,Net Banking,Bangalore,Delivered
+1039,Sneha,Clothing,Shoes,2,870,1740,Card,Delhi,Delivered
+1040,Meera,Electronics,Smartwatch,3,2768,8304,UPI,Chennai,Pending
+1041,Sneha,Electronics,Smartwatch,2,3220,6440,Card,Bangalore,Delivered
+1042,Neha,Beauty,Face Wash,4,2480,9920,Net Banking,Hyderabad,Delivered
+1043,Karan,Electronics,Keyboard,5,4495,22475,Net Banking,Bangalore,Delivered
+1044,Sneha,Books,Data Science,4,3164,12656,Card,Delhi,Delivered
+1045,Karan,Beauty,Face Wash,2,700,1400,Cash on Delivery,Bangalore,Cancelled
+1046,Sneha,Clothing,Jacket,2,3788,7576,Net Banking,Chennai,Delivered
+1047,Ananya,Beauty,Perfume,5,1298,6490,Cash on Delivery,Chennai,Cancelled
+1048,Aarav,Clothing,T-Shirt,5,3484,17420,Net Banking,Chennai,Delivered
+1049,Vikram,Clothing,T-Shirt,3,1138,3414,UPI,Chennai,Delivered
+1050,Neha,Grocery,Sugar,4,258,1032,Cash on Delivery,Mumbai,Pending
